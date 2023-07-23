@@ -38,7 +38,7 @@ function Projects() {
               imgPath={Helpright}
               isBlog={false}
               title="HelpRight"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Developed a user-friendly web application to connect volunteers, NGOs, and individuals in need through a post section, facilitating quick and effective communication."
               ghLink="https://github.com/anshika-5/HelpRight---Web-Application"
               //demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={Movie}
               isBlog={false}
               title="CineSuggest - Movie Recommender System"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Developed it using collaborative filtering techniques,achieving 80\% accuracy on the testing set to provide personalized movie recommendations to users."
               ghLink="https://github.com/anshika-5/Movie-Recommender-System"
               //demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={StockTrendPrediction}
               isBlog={false}
               title="Stock Trend Prediction"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Developing a precise machine learning model to forecast stock trends using historical data, technical indicators, and market sentiment. The project aims to empower investors and traders with actionable insights to make informed decisions and identify potential opportunities while managing risks in the stock market."
               ghLink="https://github.com/anshika-5/Stock-Trend-Prediction---Web-Application-"
               //demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={Diabetes}
               isBlog={false}
               title="Diabetes Prediction using Machine Learning"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Developing a model to predict diabetes risk based on health data, aiding early detection and proactive interventions for better healthcare outcomes."
               ghLink="https://github.com/anshika-5/Diabetes-Prediction-using-Machine-Learning"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
@@ -82,8 +82,7 @@ function Projects() {
               imgPath={Digit}
               isBlog={false}
               title="Handwritten Digit Recognition"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="Creating a system to accurately recognize handwritten digits, enabling automated processing of handwritten content for various applications."
               ghLink="https://github.com/anshika-5/Handwritten-Digit-Recognition"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
