@@ -60,7 +60,7 @@ function Projects() {
               imgPath={StockTrendPrediction}
               isBlog={false}
               title="Stock Trend Prediction"
-              description="Developing a precise machine learning model to forecast stock trends using historical data, technical indicators, and market sentiment. The project aims to empower investors and traders with actionable insights to make informed decisions and identify potential opportunities while managing risks in the stock market."
+              description="Developed a precise machine learning model to forecast stock trends using historical data, technical indicators, and market sentiment. The project aims to empower investors and traders with actionable insights to make informed decisions and identify potential opportunities while managing risks in the stock market."
               ghLink="https://github.com/anshika-5/Stock-Trend-Prediction---Web-Application-"
               //demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={Diabetes}
               isBlog={false}
               title="Diabetes Prediction using Machine Learning"
-              description="Developing a model to predict diabetes risk based on health data, aiding early detection and proactive interventions for better healthcare outcomes."
+              description="Developed a model to predict diabetes risk based on health data, aiding early detection and proactive interventions for better healthcare outcomes."
               ghLink="https://github.com/anshika-5/Diabetes-Prediction-using-Machine-Learning"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
@@ -82,7 +82,7 @@ function Projects() {
               imgPath={Digit}
               isBlog={false}
               title="Handwritten Digit Recognition"
-              description="Creating a system to accurately recognize handwritten digits, enabling automated processing of handwritten content for various applications."
+              description="Created a system to accurately recognize handwritten digits, enabling automated processing of handwritten content for various applications."
               ghLink="https://github.com/anshika-5/Handwritten-Digit-Recognition"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
